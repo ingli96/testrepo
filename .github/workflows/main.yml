@@ -25,3 +25,4 @@ jobs:
         context: ./subfolder
         push: true
         tags: ghcr.io/${{ github.repository_owner }}/image-name:latest
+
